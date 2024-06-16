@@ -6,7 +6,7 @@
 
 <h1 align="center">
     <a href="https://yanrobert10.github.io/nlw-spacetime/">
-    <img src="./assets/preview.png" style="width: 13rem; height: auto;" alt="Cápsula do Tempo">
+    <img src="./assets/preview.png" target="_blank" style="width: 13rem; height: auto;" alt="Cápsula do Tempo">
     </a>
 </h1>
 
